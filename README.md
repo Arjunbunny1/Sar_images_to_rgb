@@ -26,8 +26,10 @@ Evaluation:
 
 Performance is validated by comparing grayscale inputs with predicted colorized outputs.
 # Datasets
-EuroSAT Dataset: EuroSAT
+EuroSAT Dataset: https://ec.europa.eu/eurostat/data/database
 EuroSAT Grayscale: Custom preprocessing script to convert color images to grayscale.
-Tools & Libraries
+# Tools & Libraries
 TensorFlow
 OpenCV
+# Acknowledgements
+Thanks to the EuroSAT team for providing the dataset.
